@@ -1,12 +1,12 @@
 # ☕ Java Internship Projects – CODSOFT
 
-This repository contains the Java programming tasks completed by *Pranav Singh* during his *Java Programming Internship* at *CODSOFT*.
+This repository contains the Java programming tasks completed by *Pranav Kumar Singh* during his *Java Programming Internship* at *CODSOFT*.
 
 ---
 
 ## 👨‍💻 Intern Details
 
-- *Name:* Pranav Singh  
+- *Name:* Pranav Kumar Singh  
 - *Domain:* Java Programming  
 - *Organization:* CODSOFT  
 - *Tasks Completed:* 3
@@ -70,5 +70,5 @@ A console-based ATM simulation using Object-Oriented Programming.
 
 These tasks were completed as part of the Java Programming Internship at CODSOFT, focused on improving Java fundamentals through practical coding problems.
 
-> Completed by Pranav Singh
+> Completed by Pranav Kumar Singh
 Java Programming Intern | CODSOFT
